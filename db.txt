@@ -1,0 +1,3 @@
+Advance OS CS5306 25 5 Fall 2017
+Networks CS5334 15 3 Fall 2017
+Formal Language CS5222 30 0 Fall 2017
